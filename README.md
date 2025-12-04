@@ -22,6 +22,8 @@ Name: Diabetes Health Indicators Dataset
 
 Source: Kaggle
 
+Records - 100000 medical records 
+
 Dataset link - https://www.kaggle.com/datasets/mohankrishnathalla/diabetes-health-indicators-dataset
 
 Input Features such as : age,
